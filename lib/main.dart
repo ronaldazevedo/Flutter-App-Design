@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Screen/streming_app_home_screen.dart';
+import 'package:flutter_ui_design/live_streaming_app/Screen/streming_app_home_screen.dart';
 
 void main() {
   runApp(const MyApp());

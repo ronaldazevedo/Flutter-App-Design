@@ -1,11 +1,11 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Constants/colors.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Model/model.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Model/stream_category.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Screen/live_stream_screen.dart';
-import 'package:flutter_ui_design/Live%20Streming%20App/Screen/profile_detail_screen.dart';
+import 'package:flutter_ui_design/live_streaming_app/Constants/colors.dart';
+import 'package:flutter_ui_design/live_streaming_app/Model/model.dart';
+import 'package:flutter_ui_design/live_streaming_app/Model/stream_category.dart';
+import 'package:flutter_ui_design/live_streaming_app/Screen/live_stream_screen.dart';
+import 'package:flutter_ui_design/live_streaming_app/Screen/profile_detail_screen.dart';
 import 'package:iconsax/iconsax.dart';
 
 class StremingAppHomeScreen extends StatefulWidget {
